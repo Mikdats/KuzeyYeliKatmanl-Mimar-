@@ -56,7 +56,7 @@ namespace KuzeyYeliForm
             }
             else
             {
-                MessageBox.Show("Kayıt eklenirken hata oluştu");
+                MessageBox.Show("Kayıt eklenirken hata oluştu!!");
             }
           
                 
